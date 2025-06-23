@@ -9,6 +9,8 @@ body {
   background-color: #efefef;
   text-align: center;
   background-image: url(bg-img.png);
+  background-size: cover;
+  background-repeat: no-repeat;
 }
 a {
   font-size: larger;
